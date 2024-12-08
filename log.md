@@ -7,3 +7,15 @@ It took me a while to accomodate to the bash profile, working environment in VSC
 tldr; I am excited to see where the future lies with these new skills, just unsure where to start. 
 
 ...
+
+Dec 07 2024
+
+I still haven't stumbled upon a project idea. But just recently learned the fields of bioinformatics. I wish I knew the different types before going into it. It is advised to learn programming, how to handle data info, and learn the command line. However, it's difficult to apply these skills without having to know where to start. Bioinformatics can range vastly, from sequence analysis to pharmacogenomics to structural analysis to even predictive models of proteins. 
+
+I've been looking into online forums and browsing through YouTube on how to get started, but I've only found so many places to start. I know the different file formats that you may encounter in bioinformatics, but there are so many tools to work with. Analagous to learning and mastering a programming language before learning another one, I've found that it's useful to be familiar to one field of bioinformatics and hone your workflow. 
+
+With all that said, I do want to move in the field of pharmacogenomics, or drug discovery. While I have been primarily focused and applying myself in the field of sequencing (genes), I was initially curious of Bioinformatics and Drug Discovery. I am also curious in the field of AI and machine learning. I want to combine statistical models as well. Unsure how this will unfold, and cannot say that I am prepared for the uncertainty, I am willing to learn.
+
+tldr; learning ONE programming is akin to learning ONE field of bioinformatics -- get started in one field. i think mine is drug discovery and machine learning.
+
+...
