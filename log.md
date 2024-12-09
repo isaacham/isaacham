@@ -19,3 +19,7 @@ With all that said, I do want to move in the field of pharmacogenomics, or drug 
 tldr; learning ONE programming is akin to learning ONE field of bioinformatics -- get started in one field. i think mine is drug discovery and machine learning.
 
 ...
+
+Dec 08 2024
+
+I had started to use the Drug Disocovery series to uncover a single protein of interest of mine: amyloid-beta. While I had wanted to study hereditary hemochromatosis, there weren't any single proteins that were available. This hinders the parallel learning process along with the Drug Discovery series. Amyloid-beta 42 protein is a popular protein that appears and accumulates during early-onset Alzheimers. Wanted to study the drugs that may target those proteins. Fortunately to my benefit, there were plenty of data that was available in the ChEMBL database. 
