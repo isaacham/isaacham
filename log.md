@@ -23,3 +23,9 @@ tldr; learning ONE programming is akin to learning ONE field of bioinformatics -
 Dec 08 2024
 
 I had started to use the Drug Disocovery series to uncover a single protein of interest of mine: amyloid-beta. While I had wanted to study hereditary hemochromatosis, there weren't any single proteins that were available. This hinders the parallel learning process along with the Drug Discovery series. Amyloid-beta 42 protein is a popular protein that appears and accumulates during early-onset Alzheimers. Wanted to study the drugs that may target those proteins. Fortunately to my benefit, there were plenty of data that was available in the ChEMBL database. 
+
+...
+
+Dec 11 2024
+
+I haven't been logging my entries these days, but I truly have been learning many different things about learning Python through online resources. There are so many available resources, such as StackOverflow, Videos, and whatnot. I'm thoroughly enjoying the Drug Discovery Data project, and I'm slowly starting to get the hang of using seaborn, pandas, os, matlibplot, numpy, and other libraries. I'm also learning the linux terminal and the command line. Still need to learn how to pipeline in the terminal. I still haven't been able to set a consistent database for github and connect it with VSCode: I'm having to manually upload files. Things are getting more fun, and I haven't been quite self-motivated in a while. I really want to be able to partake in the future of gene sequencing, as well as helping others via drug discovery. Though I'm not fluent now, I will be later. 
