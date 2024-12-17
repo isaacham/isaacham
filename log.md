@@ -29,3 +29,9 @@ I had started to use the Drug Disocovery series to uncover a single protein of i
 Dec 11 2024
 
 I haven't been logging my entries these days from sudden schedule changes, but I truly have been learning many different things about learning Python through online resources. There are so many available resources, such as StackOverflow, Videos, and whatnot. I'm thoroughly enjoying the Drug Discovery Data project, and I'm slowly starting to get the hang of using seaborn, pandas, os, matlibplot, numpy, and other libraries. I'm also learning the linux terminal and the command line. Still need to learn how to pipeline in the terminal. I still haven't been able to set a consistent database for github and connect it with VSCode: I'm having to manually upload files. Things are getting more fun, and I haven't been quite self-motivated in a while. I really want to be able to partake in the future of gene sequencing, as well as helping others via drug discovery. Though I'm not fluent now, I will be later. 
+
+...
+
+Dec 16 2024
+
+Has been busy the last couple of days. Sick, taking care of others that are also sick, and meeting up with friends for the holidays/break. Squeezing whatever time I have in order to get hands-on time. While AFK, I've been trying to think about which programs are essential and best for my learning experience. Since I have quite a bit of time before applying, I do want to start on some projects and get them going -- learning that people use AI to basically orient their class structures. Some of these courses are either a) outdated or b) lack co-op experience. I think the best way to get involved is to just start. Just like running, get out of the door and just get one foot in front of the other. While it's nice to get a coach to structure your plans and whatnot, it's much better when the motivation is intrinsic and it's purely self-directed.
