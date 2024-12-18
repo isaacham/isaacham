@@ -35,3 +35,9 @@ I haven't been logging my entries these days from sudden schedule changes, but I
 Dec 16 2024
 
 Has been busy the last couple of days. Sick, taking care of others that are also sick, and meeting up with friends for the holidays/break. Squeezing whatever time I have in order to get hands-on time. While AFK, I've been trying to think about which programs are essential and best for my learning experience. Since I have quite a bit of time before applying, I do want to start on some projects and get them going -- learning that people use AI to basically orient their class structures. Some of these courses are either a) outdated or b) lack co-op experience. I think the best way to get involved is to just start. Just like running, get out of the door and just get one foot in front of the other. While it's nice to get a coach to structure your plans and whatnot, it's much better when the motivation is intrinsic and it's purely self-directed.
+
+...
+
+Dec 17 2024
+
+Been learning the command line (bash scripting), setting up environments using conda, and downloaded datasets on NCBI database. Didn't realize how powerful the command-line really is. It's so efficient without have to write a code in a text-editor. Getting a better grasp on it now. Using sra-toolkit to install database (fastqc-dump), as well checking the quality score (fastqc).
